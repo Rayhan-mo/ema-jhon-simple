@@ -1,0 +1,23 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid rgb(163, 163, 163);
+    margin-bottom: 1%;
+    padding-bottom: 1%;
+    margin-right: 1%;
+}
+.product-name h3{
+    color: blue;
+    font-weight: 500;
+    padding-left: 1.5%;
+}
+.product-name p{
+    padding-left: 1.5%;
+}
+button{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(255, 238, 0);
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
